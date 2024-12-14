@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "name": "Alice Johnson",
+      "age": 25,
+      "address": "123 Elm Street, Springfield"
+    },
+    {
+      "name": "Bob Smith",
+      "age": 30,
+      "address": "456 Oak Avenue, Greenfield"
+    },
+    {
+      "name": "Charlie Brown",
+      "age": 22,
+      "address": "789 Pine Road, Lakeside"
+    },
+    {
+      "name": "Diana Prince",
+      "age": 28,
+      "address": "101 Maple Lane, Rivertown"
+    },
+    {
+      "name": "Ethan Hunt",
+      "age": 35,
+      "address": "202 Birch Boulevard, Hillview"
+    },
+    {
+      "name": "Fiona Gallagher",
+      "age": 27,
+      "address": "303 Cedar Court, Brookhaven"
+    },
+    {
+      "name": "George Miller",
+      "age": 32,
+      "address": "404 Aspen Drive, Sunnydale"
+    },
+    {
+      "name": "Hannah Wright",
+      "age": 29,
+      "address": "505 Cherry Circle, Meadowville"
+    },
+    {
+      "name": "Ian Carter",
+      "age": 26,
+      "address": "606 Walnut Street, Valleyview"
+    },
+    {
+      "name": "Jessica Taylor",
+      "age": 24,
+      "address": "707 Poplar Place, Woodbury"
+    }
+  ]
+}
